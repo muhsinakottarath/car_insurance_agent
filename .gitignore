@@ -1,0 +1,7 @@
+agent/
+supportbot-env/
+chroma_db/
+__pycache__/
+.env
+*.db
+.DS_Store
